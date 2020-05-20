@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/github/workflow/status/kodekeep/:package_name/run-tests?label=tests)](https://github.com/kodekeep/:package_name/actions?query=workflow%3Arun-tests+branch%3Amaster)
 [![Coverage Status](https://badgen.net/codeclimate/coverage/kodekeep/:package_name)](https://codeclimate.com/github/kodekeep/:package_name)
 [![Quality Score](https://badgen.net/codeclimate/maintainability/kodekeep/:package_name)](https://codeclimate.com/github/kodekeep/:package_name)
-[![Total Downloads](https://badgen.net/npm/dt/kodekeep/:package_name)](https://npmjs.com/package/@kodekeep/:package_name)
+[![Total Downloads](https://badgen.net/npm/dt/@kodekeep/:package_name)](https://npmjs.com/package/@kodekeep/:package_name)
 
 This package was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and provides ...
 
